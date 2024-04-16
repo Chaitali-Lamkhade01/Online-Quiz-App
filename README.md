@@ -6,7 +6,7 @@ A simple web-based Quiz app that allows users to test their knowledge with multi
 
 To run this app locally, follow these steps:
 
-1. Clone this repository
+1. Clone this repository.
 2. Open `Main.html` in your web browser.
 
 ## Usage
