@@ -2,7 +2,7 @@
 
 A simple web-based Quiz app that allows users to test their knowledge with multiple-choice questions.
 
-## Installation
+## Installation:
 
 To run this app locally, follow these steps:
 
